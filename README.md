@@ -7,7 +7,3 @@
 This project builds a travel advisor system using LangChain, LangGraph, and an open-source LLM from Ollama. 
 Retrieves travel-related information by crawling a website pages, stores the data in a Chroma vector database, and uses Nomic embeddings for document processing. 
 The result is a travel planning tool that provides personalized travel suggestions.
-
-## General Information
-
-- **Python** version is: **3.12.0** (_if you need to download it click on the Python badge_)
