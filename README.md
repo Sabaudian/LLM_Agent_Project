@@ -8,6 +8,11 @@
 - Python version is: 3.12.0 (*if you need to download it, click on the Python badge*)
 - Ollama is necessary to run this project (*if you need to download it, click on the Ollama badge*)
 
+  - Once Ollama is downloaded, run via terminal:
+    ```
+    ollama run llama3.2
+    ```
+
 ## LangGraph RAG agent - Travel planner advisor
 
 This project builds a RAG agent using LangChain, LangGraph, and an open-source LLM from Ollama (llama3.2). 
